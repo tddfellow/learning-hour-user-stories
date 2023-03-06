@@ -21,7 +21,7 @@ Good user stories should follow the INVEST formula:
 
 ## Vertical vs Horizontal slicing of work
 
-[](img/vertical-vs-horizontal-slicing.png)
+![](img/vertical-vs-horizontal-slicing.png)
 
 Horizontal slicing is classic and isn't able to deliver incremental value (e.g., slicing by the tier
 of architecture). Horizontal slicing increases risks of delivery.
